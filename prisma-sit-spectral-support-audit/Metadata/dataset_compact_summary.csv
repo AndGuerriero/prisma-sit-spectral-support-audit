@@ -1,0 +1,3 @@
+setting,n_pixels,n_scenes,n_classes,n_fields,pixels_per_scene_median,pixels_per_scene_min,pixels_per_scene_max,pixels_per_field_median,pixels_per_field_min,pixels_per_field_max,n_eligible_fields,max_samples,subsample_seed
+full,500000,25,12,17507,20000.0,20000,20000,17.0,1,2922,11655,500000,42
+summer,500000,13,12,16971,38462.0,38461,38462,14.0,1,5584,10300,500000,42
